@@ -2,7 +2,7 @@
 
 An English Mobile Legends companion for **Telegram Serverless**: bot commands, a React Mini App, source statistics, hero/build browsing, counter relationships, draft suggestions, favorites, and a reviewed-content publication workflow.
 
-**Status: functional development beta, not a completed editorial meta product.** The repository is ready for local development and staging deployment. It has not been deployed to a real Telegram bot. Tests use a local SQLite/Bot API adapter, not the Telegram cloud runtime.
+**Status: functional development beta, not a completed editorial meta product.** Deployed beta: [@mlbbmetabot](https://t.me/mlbbmetabot), with its [Mini App](https://app8208143805.tgcloud.ai/). Database migrations, command/menu configuration, webhook synchronization and cloud endpoint checks passed. Automated tests use a local SQLite/Bot API adapter; interactive Telegram device testing remains pending.
 
 ## Included data and honest limits
 
